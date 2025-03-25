@@ -10,25 +10,25 @@ The target variable is Malignant (1) or Benign (0).
 
 **Technologies & Libraries Used**
 
-Python 
-NumPy
-Pandas
-Scikit-Learn
+Python, 
+NumPy,
+Pandas,
+Scikit-Learn,
 Matplotlib & Seaborn (for data visualization)
 
 **Machine Learning Models Used**
 
-Logistic Regression
-Random Forest Classifier
-Support Vector Machine (SVM)
-K-Nearest Neighbors (KNN)
+Logistic Regression,
+Random Forest Classifier,
+Support Vector Machine (SVM),
+K-Nearest Neighbors (KNN),
 Decision Tree Classifier
 
 **Evaluation Metrics**
 
-Accuracy
-Precision & Recall
-F1-Score
+Accuracy,
+Precision & Recall,
+F1-Score,
 Confusion Matrix
 
 
